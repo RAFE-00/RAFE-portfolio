@@ -72,9 +72,7 @@ const About = () => {
       </div>
 
       <p ref={paragraphRef} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        I'm a skilled software developer with experience in  JavaScript, and expertise in frameworks 
-        like React, Node.js, and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, 
-        scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+       I’m Kiharu, a dedicated Security Engineer and AI Product Manager with a passion for safeguarding digital landscapes and driving innovative AI solutions. With expertise in cybersecurity strategies and AI product development, I design robust systems that protect data while delivering intelligent, user-focused experiences. Combining technical knowledge with strategic vision, I collaborate across teams to build secure, scalable, and cutting-edge products that solve real-world challenges. Let’s connect to create the future of secure and smart technology together.
       </p>
 
       <div className="mt-20 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 justify-items-center gap-10">
